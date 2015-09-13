@@ -1,0 +1,120 @@
+table
+{
+	border-collapse:collapse;
+}
+.load
+{
+	font-family:"Arial";
+	//color:white;
+	font-size:12px;
+	text-align:center;
+}
+.ProductName
+{
+	font-size:28px;
+	color:red;
+	font-family:"Arial";
+}
+
+.Subtotal
+{
+	font-size:28px;
+	color:blue;
+	font-family:"Arial";
+}
+
+.searchEntered
+{
+	font-size:28px;
+	font-family:"Arial";
+}
+.DetailsTable
+{
+	width:100%;
+}
+
+.DetailsTableItem
+{
+	height:50px;
+	width:33%;
+	color:blue;
+}
+.tableTextLeft
+{
+	text-align:left;
+	width:50%;
+}
+.tableTextRight
+{
+	text-align:right;
+	width:50%;
+}
+.checkoutTable
+{
+	width:100%;
+	font-size:28px;
+	border:1px;
+}
+.checkoutForm
+{
+	font-size:28px;
+}
+.even
+{
+	background-color:#CCC;
+}
+.tableLeft
+{
+	text-align:left;
+	width:20%;
+	padding:15px;
+	font-family:"Arial";
+}
+.tableRight
+{
+	text-align:right;
+	width:5%;
+	font-family:"Arial";
+}
+.tableLeftActive
+{
+	text-align:left;
+	width:20%;
+	padding:15px;
+	font-family:"Arial";
+	background-color:#CCC;
+}
+.tableRightActive
+{
+	text-align:right;
+	width:5%;
+	font-family:"Arial";
+	background-color:#CCC;
+}
+.statusBarRight
+{
+	text-align:right;
+	background-color:#CCC;
+	font-style:italic;
+}
+.error
+{
+	font-size:28px;
+	font-family:"Arial";
+	color:red;
+}
+.alignLeft
+{
+	text-align:left;
+}
+.alignRight
+{
+	text-align:right;
+}
+.message
+{
+	font-family:"Arial";
+	color:white;
+	font-size:24px;
+	text-align:center;
+}
